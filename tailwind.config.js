@@ -6,7 +6,5 @@ module.exports = {
     theme: {
       extend: {},
     },
-    plugins: [
-    require('@netlify/tailwindcss-first-line')
-    ]
+    plugins: []
   }
